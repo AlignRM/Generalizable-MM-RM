@@ -1,4 +1,4 @@
-# Generalizable Multimodal RM
+# Robust Multimodal RM
 
 This repository contains code for the ICML 2025 paper [The Devil Is in the Details: Tackling Unimodal Spurious Correlations for Generalizable Multimodal Reward Models](https://arxiv.org/abs/2503.03122).
 
@@ -66,7 +66,7 @@ Whether implemented using the standard algorithm or the shortcut-aware algorithm
 
 ## Model
 
-In the original paper, for analytical purposes in cross-distribution experiments, we limited our training data to a single preference dataset source. To better serve the community, we are now training a robust reward model based on the proposed Shortcut-aware MM-RM learning algorithm using more comprehensive preference datasets (which is a more common practice in the open-source community). We plan to release this reward model upon completion.
+In the original paper, for analytical purposes in cross-distribution experiments, we limited our training data to a single preference dataset source. To better serve the community, we are now planning to train a robust reward model based on the proposed Shortcut-aware MM-RM learning algorithm using more comprehensive preference datasets (which is a more common practice in the open-source community). We plan to release this reward model upon completion.
 
 
 ## Citation
