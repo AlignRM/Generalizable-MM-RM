@@ -72,10 +72,10 @@ In the original paper, for analytical purposes in cross-distribution experiments
 ## Citation
 
 ``` bibtex
-@article{li2025devil,
+@inproceedings{li2025devil,
   title={The Devil Is in the Details: Tackling Unimodal Spurious Correlations for Generalizable Multimodal Reward Models},
   author={Li, Zichao and Wen, Xueru and Lou, Jie and Ji, Yuqiu and Lu, Yaojie and Han, Xianpei and Zhang, Debing and Sun, Le},
-  journal={arXiv preprint arXiv:2503.03122},
+  booktitle={International Conference on Machine Learning}
   year={2025}
 }
 ```
